@@ -11,6 +11,9 @@
 - B6651B1-NNYL3G-50
 - RS PRO Heat Shrink Tubing, Black 3 mm Sleeve Dia. x 10m Length 3:1 Ratio, RS PRO Series
 - 
+<p align="center"><img width="800" alt="BNC_Connector" src="https://github.com/user-attachments/assets/7cd6f32a-73a9-4231-abc6-d816cd9c1469" /></p>
+
+
 
 ## Step 4: 
 
