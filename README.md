@@ -7,8 +7,8 @@
 
 
 ## Step 3: 
-- B6351B1-ND3G-50
-- B6651B1-NNYL3G-50
+- Non-isolated BNC Connectors: B6351B1-ND3G-50
+- Isolated BNC Connectors: B6651B1-NNYL3G-50
 - RS PRO Heat Shrink Tubing, Black 3 mm Sleeve Dia. x 10m Length 3:1 Ratio, RS PRO Series
 - Jumper Wire
 - 
